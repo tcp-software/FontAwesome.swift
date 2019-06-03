@@ -18,6 +18,9 @@
 		4DF4FB971E94582B00F03B22 /* FontAwesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8401A8F01B39610F00269D14 /* FontAwesome.swift */; };
 		4DF4FB981E94582E00F03B22 /* FontAwesomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DBFFAC1D8A7E76002C4517 /* FontAwesomeView.swift */; };
 		4DF4FB991E94583100F03B22 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841575D91B3A490A001092B6 /* Enum.swift */; };
+		510BBBBB22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */ = {isa = PBXBuildFile; fileRef = 510BBBBA22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf */; };
+		510BBBBC22A5C2F2000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */ = {isa = PBXBuildFile; fileRef = 510BBBBA22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf */; };
+		510BBBBD22A5C2F3000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */ = {isa = PBXBuildFile; fileRef = 510BBBBA22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf */; };
 		8401A8D81B39601400269D14 /* FontAwesome.h in Headers */ = {isa = PBXBuildFile; fileRef = 8401A8D71B39601400269D14 /* FontAwesome.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8401A8DE1B39601400269D14 /* FontAwesome.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8401A8D21B39601400269D14 /* FontAwesome.framework */; };
 		8401A8E51B39601400269D14 /* FontAwesomeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8401A8E41B39601400269D14 /* FontAwesomeTests.swift */; };
@@ -60,6 +63,7 @@
 		484F4A3B1ECC816A0010B0BA /* FontAwesomeTabBarItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesomeTabBarItem.swift; sourceTree = "<group>"; };
 		484F4A3C1ECC816A0010B0BA /* FontAwesomeTextRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesomeTextRepresentable.swift; sourceTree = "<group>"; };
 		4DF4FB8E1E94581300F03B22 /* FontAwesome.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FontAwesome.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		510BBBBA22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Pro-Regular-400.otf"; sourceTree = "<group>"; };
 		8401A8D21B39601400269D14 /* FontAwesome.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FontAwesome.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8401A8D61B39601400269D14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8401A8D71B39601400269D14 /* FontAwesome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FontAwesome.h; sourceTree = "<group>"; };
@@ -178,6 +182,7 @@
 		84E07774210CA54300CF2885 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				510BBBBA22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf */,
 				84E07768210C47DD00CF2885 /* Font Awesome 5 Brands-Regular-400.otf */,
 				84E0776A210C47DD00CF2885 /* Font Awesome 5 Free-Regular-400.otf */,
 				84E07769210C47DD00CF2885 /* Font Awesome 5 Free-Solid-900.otf */,
@@ -344,6 +349,7 @@
 				84E07770210C47DD00CF2885 /* Font Awesome 5 Free-Solid-900.otf in Resources */,
 				84E07773210C47DD00CF2885 /* Font Awesome 5 Free-Regular-400.otf in Resources */,
 				84E0776D210C47DD00CF2885 /* Font Awesome 5 Brands-Regular-400.otf in Resources */,
+				510BBBBD22A5C2F3000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,6 +360,7 @@
 				84E0776E210C47DD00CF2885 /* Font Awesome 5 Free-Solid-900.otf in Resources */,
 				84E07771210C47DD00CF2885 /* Font Awesome 5 Free-Regular-400.otf in Resources */,
 				84E0776B210C47DD00CF2885 /* Font Awesome 5 Brands-Regular-400.otf in Resources */,
+				510BBBBB22A5C2E6000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,6 +378,7 @@
 				84E0776F210C47DD00CF2885 /* Font Awesome 5 Free-Solid-900.otf in Resources */,
 				84E07772210C47DD00CF2885 /* Font Awesome 5 Free-Regular-400.otf in Resources */,
 				84E0776C210C47DD00CF2885 /* Font Awesome 5 Brands-Regular-400.otf in Resources */,
+				510BBBBC22A5C2F2000295D0 /* Font Awesome 5 Pro-Regular-400.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
