@@ -1392,6 +1392,7 @@ public enum FontAwesome: String {
     case youtubeSquare = "\u{f431}"
     case zhihu = "\u{f63f}"
     case repeatSimple = "\u{f363}"
+    case commentsAlt = "\u{f4b6}"
 }
 
 /// An array of FontAwesome icon codes.
@@ -3196,6 +3197,7 @@ public enum FontAwesomeBrands: String {
     case youtubeSquare = "\u{f431}"
     case zhihu = "\u{f63f}"
     case repeatSimple = "\u{f363}"
+    case commentsAlt = "\u{f4b6}"
 }
 
 /// An array of FontAwesome brand icon codes.
