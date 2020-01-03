@@ -303,6 +303,7 @@ public enum FontAwesome: String {
     case columns = "\u{f0db}"
     case comment = "\u{f075}"
     case commentAlt = "\u{f27a}"
+    case commentAltDots = "\u{f4a3}"
     case commentDollar = "\u{f651}"
     case commentDots = "\u{f4ad}"
     case commentMedical = "\u{f7f5}"
@@ -1677,6 +1678,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-columns": "\u{f0db}",
     "fa-comment": "\u{f075}",
     "fa-comment-alt": "\u{f27a}",
+    "fa-comment-alt-dots": "\u{f4a3}",
     "fa-comment-dollar": "\u{f651}",
     "fa-comment-dots": "\u{f4ad}",
     "fa-comment-medical": "\u{f7f5}",
