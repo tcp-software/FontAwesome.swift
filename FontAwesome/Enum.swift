@@ -196,6 +196,7 @@ public enum FontAwesome: String {
     case calendarPlus = "\u{f271}"
     case calendarTimes = "\u{f273}"
     case calendarWeek = "\u{f784}"
+    case calendarStar = "\u{f736}"
     case camera = "\u{f030}"
     case cameraRetro = "\u{f083}"
     case campground = "\u{f6bb}"
@@ -1063,6 +1064,7 @@ public enum FontAwesome: String {
     case signInAlt = "\u{f2f6}"
     case signLanguage = "\u{f2a7}"
     case signOutAlt = "\u{f2f5}"
+    case signOut = "\u{f08b}"
     case signal = "\u{f012}"
     case signature = "\u{f5b7}"
     case simCard = "\u{f7c4}"
@@ -1568,6 +1570,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-calendar-plus": "\u{f271}",
     "fa-calendar-times": "\u{f273}",
     "fa-calendar-week": "\u{f784}",
+    "fa-calendar-star" : "\u{f736}",
     "fa-camera": "\u{f030}",
     "fa-camera-retro": "\u{f083}",
     "fa-campground": "\u{f6bb}",
@@ -2435,6 +2438,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-sign-in-alt": "\u{f2f6}",
     "fa-sign-language": "\u{f2a7}",
     "fa-sign-out-alt": "\u{f2f5}",
+    "fa-sign-out": "\u{f08b}",
     "fa-signal": "\u{f012}",
     "fa-signature": "\u{f5b7}",
     "fa-sim-card": "\u{f7c4}",
