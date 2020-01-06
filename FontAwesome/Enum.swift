@@ -765,6 +765,7 @@ public enum FontAwesome: String {
     case listOl = "\u{f0cb}"
     case listUl = "\u{f0ca}"
     case locationArrow = "\u{f124}"
+    case locationCircle = "\u{f602}"
     case lock = "\u{f023}"
     case lockOpen = "\u{f3c1}"
     case longArrowAltDown = "\u{f309}"
@@ -915,6 +916,7 @@ public enum FontAwesome: String {
     case phoenixFramework = "\u{f3dc}"
     case phoenixSquadron = "\u{f511}"
     case phone = "\u{f095}"
+    case phoneAlt = "\u{f879}"
     case phoneSlash = "\u{f3dd}"
     case phoneSquare = "\u{f098}"
     case phoneVolume = "\u{f2a0}"
@@ -2140,6 +2142,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-list-ol": "\u{f0cb}",
     "fa-list-ul": "\u{f0ca}",
     "fa-location-arrow": "\u{f124}",
+    "fa-location-circle": "\u{f602}",
     "fa-lock": "\u{f023}",
     "fa-lock-open": "\u{f3c1}",
     "fa-long-arrow-alt-down": "\u{f309}",
@@ -2290,6 +2293,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-phoenix-framework": "\u{f3dc}",
     "fa-phoenix-squadron": "\u{f511}",
     "fa-phone": "\u{f095}",
+    "fa-phone-alt": "\u{f879}",
     "fa-phone-slash": "\u{f3dd}",
     "fa-phone-square": "\u{f098}",
     "fa-phone-volume": "\u{f2a0}",
