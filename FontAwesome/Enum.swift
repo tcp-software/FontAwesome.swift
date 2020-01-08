@@ -1108,6 +1108,7 @@ public enum FontAwesome: String {
     case sort = "\u{f0dc}"
     case sortAlphaDown = "\u{f15d}"
     case sortAlphaUp = "\u{f15e}"
+    case sortAlt = "\u{f883}"
     case sortAmountDown = "\u{f160}"
     case sortAmountUp = "\u{f161}"
     case sortDown = "\u{f0dd}"
@@ -2485,6 +2486,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-sort": "\u{f0dc}",
     "fa-sort-alpha-down": "\u{f15d}",
     "fa-sort-alpha-up": "\u{f15e}",
+    "fa-sort-alt": "\u{f883}",
     "fa-sort-amount-down": "\u{f160}",
     "fa-sort-amount-up": "\u{f161}",
     "fa-sort-down": "\u{f0dd}",
