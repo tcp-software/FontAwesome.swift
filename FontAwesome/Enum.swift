@@ -767,6 +767,7 @@ public enum FontAwesome: String {
     case locationArrow = "\u{f124}"
     case locationCircle = "\u{f602}"
     case lock = "\u{f023}"
+    case lockAlt = "\u{f30d}"
     case lockOpen = "\u{f3c1}"
     case longArrowAltDown = "\u{f309}"
     case longArrowAltLeft = "\u{f30a}"
@@ -2145,6 +2146,7 @@ public let FontAwesomeIcons: [String: String] = [
     "fa-location-arrow": "\u{f124}",
     "fa-location-circle": "\u{f602}",
     "fa-lock": "\u{f023}",
+    "fa-lock-alt": "\u{f30d}",
     "fa-lock-open": "\u{f3c1}",
     "fa-long-arrow-alt-down": "\u{f309}",
     "fa-long-arrow-alt-left": "\u{f30a}",
